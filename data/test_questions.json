@@ -1,0 +1,22 @@
+[
+  {"id": 1, "group": "direct", "question": "What does PEP 8 say about using spaces around binary operators?"},
+  {"id": 2, "group": "direct", "question": "What is the Zen of Python principle about errors being silently passed over?"},
+  {"id": 3, "group": "direct", "question": "What problem does PEP 257 address?"},
+  {"id": 4, "group": "direct", "question": "What syntax does PEP 585 introduce for standard collections as generic types?"},
+  {"id": 5, "group": "direct", "question": "What is the purpose of the walrus operator described in PEP 572?"},
+  {"id": 6, "group": "spread", "question": "How do PEP 484 and PEP 585 together describe the evolution of type annotations and generic collection syntax?"},
+  {"id": 7, "group": "spread", "question": "How do PEP 634, PEP 635, and PEP 636 relate to structural pattern matching?"},
+  {"id": 8, "group": "spread", "question": "How do PEP 557 and PEP 526 relate to dataclasses and variable annotations?"},
+  {"id": 9, "group": "spread", "question": "How do PEP 563 and PEP 649 differ in their approaches to postponed or deferred evaluation of annotations?"},
+  {"id": 10, "group": "spread", "question": "How do PEP 647 and PEP 742 address narrowing types with user-defined type guards?"},
+  {"id": 11, "group": "adjacent", "question": "What is the exact runtime memory overhead of a Python list containing one million integers?"},
+  {"id": 12, "group": "adjacent", "question": "Which Python IDE has the fastest autocomplete according to the corpus?"},
+  {"id": 13, "group": "adjacent", "question": "What is the exact benchmark speedup of Python 3.13 over Python 3.12 for web applications?"},
+  {"id": 14, "group": "adjacent", "question": "What is the recommended maximum number of lines in a Python function?"},
+  {"id": 15, "group": "adjacent", "question": "Which Python web framework is officially recommended by the PEP corpus?"},
+  {"id": 16, "group": "outside", "question": "What is the weather in Delhi today?"},
+  {"id": 17, "group": "outside", "question": "Who is the current President of the United States?"},
+  {"id": 18, "group": "outside", "question": "How do I make chicken biryani?"},
+  {"id": 19, "group": "outside", "question": "What is the exchange rate between INR and USD today?"},
+  {"id": 20, "group": "outside", "question": "Explain the latest NVIDIA GPU architecture."}
+]
